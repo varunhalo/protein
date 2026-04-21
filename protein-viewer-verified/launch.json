@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run ProteinUI",
+            "request": "launch",
+            "mainClass": "ProteinUI",
+            "vmArgs": "--module-path \"C:/Users/varun/Downloads/openjfx-21.0.10_windows-x64_bin-sdk/javafx-sdk-21.0.10/lib\" --add-modules javafx.controls,javafx.fxml,javafx.swing --add-opens javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.util=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.stage=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.embed.swing=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED"
+        }
+    ]
+}
